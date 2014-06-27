@@ -11,6 +11,8 @@ $ spm install
 $ spm doc watch
 ```
 
+then open [http://localhost:8000/html/news/news1.html](http://localhost:8000/html/news/news1.html) in browser.
+
 ## Build
 
 ```bash
