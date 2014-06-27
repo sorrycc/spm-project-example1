@@ -1,0 +1,1 @@
+define("example/0.1.0/develop/jslib/news/news1",["example/0.1.0/develop/jslib/modules/mod1"],function(e){e("example/0.1.0/develop/jslib/modules/mod1"),console.log("news1")}),define("example/0.1.0/develop/jslib/modules/mod1",[],function(){console.log("mod1")});

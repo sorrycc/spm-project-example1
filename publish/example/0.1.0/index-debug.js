@@ -1,0 +1,1 @@
+define("example/0.1.0/index-debug", [], function(require, exports, module) {});

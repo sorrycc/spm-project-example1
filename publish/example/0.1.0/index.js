@@ -1,0 +1,1 @@
+define("example/0.1.0/index",[],function(){});
