@@ -3,9 +3,9 @@
   "version": "0.1.0",
   "spm": {
     "output": [
-      "develop/images/spmjs.png",
-      "develop/csslib/news/news1.css",
-      "develop/jslib/news/news1.js"
+      "develop/images/*",
+      "develop/csslib/news/*.css",
+      "develop/jslib/news/*.js"
     ],
     "engines": {
       "seajs": "2.2.1"
